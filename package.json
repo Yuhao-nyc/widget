@@ -1,0 +1,22 @@
+{
+  "name": "widget",
+  "version": "1.0.0",
+  "description": "A USEFUL widget: Gauge Meter Progress Bar/Indicator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimfengyh/widget.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimfengyh/widget/issues"
+  },
+  "homepage": "https://github.com/jimfengyh/widget#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
