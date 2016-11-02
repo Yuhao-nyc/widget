@@ -1,0 +1,26 @@
+.meter-container-inner {
+    border: 1px solid #ddd;
+    padding: 10px 0;
+}
+.meter-cover {
+    width: 0;
+    height: 0;
+    border-left: 58px solid transparent;
+    border-right: 54px solid transparent;
+    border-bottom: 42px solid #fff;
+    margin-top: -142px;
+    margin-left: 0px;
+    position: relative;
+    padding: 0 20px;
+}
+.meter-digit {
+    text-align: center;
+    margin-top: -64px;
+    position: relative;
+}
+.meter-ind-buy {
+    display: inline-block;
+    margin-right: 22px;
+}
+.bull-color {color: #32a6e7;}
+.bear-color {color: #ff4866;}
